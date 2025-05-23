@@ -1,3 +1,8 @@
+OIC-137_QuPath_Project
+Split_Scenes
+Test_Save
+*.czi
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
